@@ -15,6 +15,9 @@ This tool helps visualize folder contents directly from the command line.
 
 ---
 
+
+cd ListDirTreeApp
+
 ## Getting Started
 
 ### Prerequisites
@@ -24,7 +27,5 @@ This tool helps visualize folder contents directly from the command line.
 ### Building and Running
 
 1. Clone the repository:
-
 ```bash
-git clone https://github.com/yourusername/ListDirTreeApp.git
-cd ListDirTreeApp
+git clone https://github.com/DevAkbariX/ListDirTreeApp.git
