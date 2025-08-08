@@ -19,7 +19,7 @@ This tool helps visualize folder contents directly from the command line.
 
 ### Prerequisites
 
-- [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0) or later installed on your machine
+- [.NET 7.0 SDK](https://dotnet.microsoft.com/download/dotnet/7.0) or later installed on your machine
 
 ### Building and Running
 
